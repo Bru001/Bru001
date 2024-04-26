@@ -13,7 +13,7 @@
 <br>
 ![Bruno N.](https://github-readme-stats.vercel.app/api?username=Bru001&show_icons=true&theme=cobalt)
 
-## Tecnologias que estudo e uso:
+## Tecnologias que eu estudo:
 ### Tecnologias de front-end
 
 <div style="display: inline_block"><br/>
