@@ -2,6 +2,9 @@
 
 <em><small style='font-size:12px;'> Navegue por este repositório e descubra pérolas de código e gemas de conhecimento. </small></em>
 ##
+<small>Sou um jovem de 18 anos, que conheceu a área da programação no ensino médio em 2021. Estou sempre em busca de aprender novas tecnologias. Atualmente, estou cursando graduação e me dedico ao desenvolvimento de projetos front-end.</small>
+##
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bruno.n01/?utm_source=qr&igsh=MW56ejRrdzZ1MjVm%3D)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-nunes-a666122a8&utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
