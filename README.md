@@ -2,7 +2,7 @@
 
 <em><small style='font-size:12px;'> Navegue por este repositório e descubra pérolas de código e gemas de conhecimento. </small></em>
 ##
-<small>Sou um jovem de 18 anos, que conheceu a área da programação no ensino médio em 2021. Estou sempre em busca de aprender novas tecnologias. Atualmente, estou cursando graduação e me dedico ao desenvolvimento de projetos front-end.</small>
+<small>Sou um jovem de 18 anos, que conheceu a área da programação no ensino médio em 2021. Estou sempre em busca de aprender novas tecnologias. Atualmente, estou cursando graduação e me dedico ao desenvolvimento de projetos front-end e mobile.</small>
 ##
 
 
