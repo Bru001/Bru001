@@ -49,11 +49,11 @@ Sou um jovem de 19 anos, que conheceu a área da programação no ensino médio 
 />
 <img 
     align="left" 
-    alt="angular" 
-    title="angular"
+    alt="Next Js" 
+    title="Next Js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 <img 
     align="left" 
