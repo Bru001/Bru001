@@ -1,5 +1,5 @@
 # 👨‍💻 Bruno R. Nunes
-**`Desenvolvedor Mobile`**
+**`Developer Mobile`**
 
 Sou um jovem de 19 anos, que conheceu a área da programação no ensino médio em 2021. Estou sempre em busca de aprender novas tecnologias. Atualmente, estou cursando graduação e me dedico ao desenvolvimento de projetos front-end e mobile.
 
