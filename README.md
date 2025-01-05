@@ -57,6 +57,14 @@ Sou um jovem de 19 anos, que conheceu a área da programação no ensino médio 
 />
 <img 
     align="left" 
+    alt="Tailwindcss" 
+    title="Tailwindcss"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -70,6 +78,14 @@ Sou um jovem de 19 anos, que conheceu a área da programação no ensino médio 
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Supabase" 
+    title="Supabase"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" 
 />
 <br/>
 <br/>
