@@ -1,7 +1,7 @@
 # 👨‍💻 Bruno R. Nunes
-**`Developer Mobile`**
+**`Mobile Developer`**
 
-Sou um jovem de 19 anos, que conheceu a área da programação no ensino médio em 2021. Estou sempre em busca de aprender novas tecnologias. Atualmente, estou cursando graduação e me dedico ao desenvolvimento de projetos front-end e mobile.
+Vejo o GitHub como uma mina de ouro da tecnologia, onde ideias ganham forma e projetos podem alcançar o mundo. Aqui, compartilho minhas criações e aprendizado contínuo na área de desenvolvimento mobile e front-end.
 
 #
 <br/>
