@@ -9,7 +9,7 @@ Vejo o GitHub como uma mina de ouro da tecnologia, onde ideias ganham forma e pr
 <h2 align="center">⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,styledcomponents" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,styledcomponents" />
     <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,git,github,vscode" /><br>
 </div>
 <br/>
